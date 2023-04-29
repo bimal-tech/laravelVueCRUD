@@ -14,13 +14,6 @@ This is a simple web application developed using Laravel 9, Vue.js 3(also Vuex 4
 
 I have hosted this application in Heroku. Please find it here.
 
-https://laravel-vue-inertia.herokuapp.com
-
-<img  src="https://raw.githubusercontent.com/SreejithEzhakkad/laravel8-app/main/public/images/laravel8app.png">
-
-Credentials:
-Email: mail@sreejith.co
-Password: Pa$$w0rd!
 
 -  [Laravel](https://laravel.com/docs/9.x)
 - [inertia.js](https://inertiajs.com)
@@ -32,7 +25,7 @@ Password: Pa$$w0rd!
 
 Clone the repository.
 
-`$ git clone git@github.com:SreejithEzhakkad/laravel-vue-inertia-bootstrap-app.git`
+`$ git clone https://github.com/bimal-tech/laravelVueCRUD.git`
 
   Create a MySQL database. Copy `.env.example` to `.env` and change values.
 Do the following
